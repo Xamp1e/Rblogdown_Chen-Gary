@@ -18,22 +18,20 @@ subtitle = ""
   icon = "flask"
   icon_pack = "fas"
   name = "Experiment"
-  description = "Basic molecular experiments were acquired."  
+  description = "Proficiency in molecular experiments such as PCR, RT-PCR, RNAi, etc."  
   
 [[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
-  description = ""  
-  
+  icon = "database"
+  icon_pack = "fas"
+  name = "Bioinfomatics"
+  description = "Data analysis and exploring of NGS & PacBio. Processing texts with Perl and drawing pictures with R"  
+
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "Mainly working on ggplot2 package to draw academic pictures."
+  icon = "hiking"
+  icon_pack = "fas"
+  name = "Driven"
+  description = "Man of a truth-seeking heart"  
 
-
-  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
