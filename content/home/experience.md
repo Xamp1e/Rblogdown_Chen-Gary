@@ -32,9 +32,9 @@ experience:
   date_start: "2020-07-01"
   description: |-
     Responsibilities include:
+    * Exploring sex determining mechanism of *E. sinensis*
     * Genome-wide identification of DM domain genes in *E. sinensis*
-    * Functional analysis of *Dsx* genes in the decapods
-    * Better
+    * Evolutionary analysis of *Dsx* genes in the arthropods
   location: Ningbo, China
   title: Postgraduate student
 - company: TJAU
