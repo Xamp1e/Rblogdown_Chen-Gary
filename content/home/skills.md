@@ -18,7 +18,7 @@ subtitle = ""
   icon = "flask"
   icon_pack = "fas"
   name = "Experiment"
-  description = "I have learned a "  
+  description = "Basic molecular experiments were acquired."  
   
 [[feature]]
   icon = "linux"
@@ -30,7 +30,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "I mainly use ggplot2 package to draw academic pictures."
+  description = "Mainly working on ggplot2 package to draw academic pictures."
 
 
   

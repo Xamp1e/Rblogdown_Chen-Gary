@@ -6,10 +6,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 education:
   courses:
   - course: M.SC.(Agr.)
-    institution: Ningbo University (2020- )
+    institution: Ningbo University
     year: 
-  - course: B.SC.(Agr.)
-    institution: Tianjin Agricultural University (2016-2020)
+  - course: B.SC.(Agr.) (2020)
+    institution: Tianjin Agricultural University 
     year: 
 email: ""
 interests:
