@@ -35,13 +35,13 @@ experience:
     * Genome-wide identification of DM domain genes in *E. sinensis*
     * Functional analysis of *Dsx* genes in the decapods
     * Better
-  location: Ningbo province
+  location: Ningbo, China
   title: Postgraduate student
 - company: TJAU
   company_url: ""
   date_end: "2020-06-30"
   date_start: "2016-09-01"
   description: Graduateing smoothly
-  location: Tianjing province
+  location: Tianjing, China
   title: Undergraduate student
 ---
