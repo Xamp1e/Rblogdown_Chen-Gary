@@ -41,7 +41,7 @@ experience:
   company_url: ""
   date_end: "2020-06-30"
   date_start: "2016-09-01"
-  description: Graduateing smoothly
-  location: Tianjing, China
+  description: Graduating smoothly
+  location: Tianjin, China
   title: Undergraduate student
 ---
