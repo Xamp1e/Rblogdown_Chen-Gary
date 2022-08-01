@@ -15,28 +15,24 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "I have 1 year of experience using R. Mainly using ggplot2"
-
-[[feature]]
-  icon = "crab
-  icon_pack = "fab"
-  name = "R"
-  description = "I have 1 year of experience using R. Mainly using ggplot2"
-    
+  icon = "flask"
+  icon_pack = "fas"
+  name = "Experiment"
+  description = "I have learned a "  
+  
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "100%"  
-
+  description = ""  
+  
 [[feature]]
-  icon = "square-terminal"
+  icon = "r-project"
   icon_pack = "fab"
-  name = "Perl"
-  description = "100%"  
+  name = "R"
+  description = "I mainly use ggplot2 package to draw academic pictures."
+
+
   
 # Uncomment to use emoji icons.
 # [[feature]]
