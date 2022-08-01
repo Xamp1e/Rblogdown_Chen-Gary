@@ -5,44 +5,41 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.SC.(Agr.)
+    institution: Ningbo University (2020- )
+    year: 
+  - course: B.SC.(Agr.)
+    institution: Tianjin Agricultural University (2016-2020)
+    year: 
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sex development mechanisms 
+- DM domain genes
+- Data visualization
+- Badminton
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Ningbo University
+  url: "https://www.nbu.edu.cn/en/"
+role: Undergraduate in Aquaculture
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/6Qpor9WgBfmDBQ7
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Xamp1e
 superuser: true
-title: Nelson Bighetti
+title: Peng Zhang
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As a postgraduate student at Ningbo University, Peng majored in the sex development mechanisms of the crustaceans, in specific, DM domain genes of the Chinese mitten crab, *Eriocheir sinensis*.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Also, Peng equipped himself with bioinformatics since 2021, and could handle with Perl & R flexibly.
+
+After a period study, Peng got obsessed with the alluring sex development mechanisms underlying the animal kingdom and was driven to finding more truths and contributing to the human cognition.

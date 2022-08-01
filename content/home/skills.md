@@ -18,20 +18,26 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
-  
+  description = "I have 1 year of experience using R. Mainly using ggplot2"
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+  icon = "crab
+  icon_pack = "fab"
+  name = "R"
+  description = "I have 1 year of experience using R. Mainly using ggplot2"
+    
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = "100%"  
+
+[[feature]]
+  icon = "square-terminal"
+  icon_pack = "fab"
+  name = "Perl"
   description = "100%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
