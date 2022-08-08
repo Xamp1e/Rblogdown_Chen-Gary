@@ -16,7 +16,6 @@ interests:
 - Sex development mechanisms 
 - DM domain genes
 - Data visualization
-- Badminton
 organizations:
 - name: Ningbo University
   url: "https://www.nbu.edu.cn/en/"
