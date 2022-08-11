@@ -18,7 +18,7 @@ subtitle = ""
   icon = "flask"
   icon_pack = "fas"
   name = "Experiment"
-  description = "Precisely handle molecular experiments such as qPCR and RNAi"  
+  description = "Precisely handle with molecular experiments such as qPCR and RNAi"  
   
 [[feature]]
   icon = "database"
