@@ -18,13 +18,13 @@ subtitle = ""
   icon = "flask"
   icon_pack = "fas"
   name = "Experiment"
-  description = "Proficiency in molecular experiments such as PCR, RT-PCR, RNAi, etc."  
+  description = "Precisely handle molecular experiments such as qPCR and RNAi"  
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "Bioinfomatics"
-  description = "Data analysis and exploring of NGS & PacBio. Processing texts with Perl and drawing pictures with R"  
+  description = "Proficiency in Linux, Perl & R"  
 
 [[feature]]
   icon = "hiking"
