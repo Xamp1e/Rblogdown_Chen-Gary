@@ -41,4 +41,6 @@ As a postgraduate student at Ningbo University, Peng majored in the sex developm
 
 Also, Peng equipped himself with bioinformatics, and could handle with Perl & R flexibly.
 
-After a period study, Peng got obsessed with the alluring sex development mechanisms underlying the animal kingdom and was driven to revealing more essences and contributing to the human cognition.
+In the research, Peng got obsessed with the alluring sex development mechanisms underlying the animal kingdom and was driven to revealing more essences and contributing to the human cognition.
+
+{{< icon name="download" pack="fas" >}} Download my {{<staticref "uploads/CV.pdf" "newtab">}}CV{{< /staticref >}}.
