@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: Ningbo University
   url: "https://www.nbu.edu.cn/en/"
-role: Graduate in Aquaculture
+role: Major in Aquaculture
 social:
 - icon: envelope
   icon_pack: fas
