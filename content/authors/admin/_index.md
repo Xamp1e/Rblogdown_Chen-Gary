@@ -5,7 +5,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: M.SC.(Agr.) (2020)
+  - course: M.SC.(Agr.) (2020-2023)
     institution: Ningbo University
     year: 
   - course: B.SC.(Agr.) (2016-2020)
@@ -13,7 +13,7 @@ education:
     year: 
 email: ""
 interests:
-- Sex development mechanisms 
+- Sexual development mechanisms
 - DM domain genes
 - Data visualization
 organizations:
@@ -37,10 +37,6 @@ user_groups:
 - Visitors
 ---
 
-As a postgraduate student at Ningbo University, Peng majored in the sex development mechanisms of the crustaceans, in specific, DM domain genes of the Chinese mitten crab, *Eriocheir sinensis*.
-
-Also, Peng equipped himself with bioinformatics, and could handle with Perl & R flexibly.
-
-In the research, Peng got obsessed with the alluring sex development mechanisms underlying the animal kingdom and was driven to revealing more essences and contributing to the human cognition.
+I am interested in studying the conservation and variation of biological mechanisms and phenomena, with a specific focus on the evolutionary history of sex determination and sex chromosomes. I hope to use genomic techniques to deepen our understanding of the history and make a niche in this field.
 
 {{< icon name="download" pack="fas" >}} Download my {{<staticref "uploads/CV.pdf" "newtab">}}CV{{< /staticref >}}.
