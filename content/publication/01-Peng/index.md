@@ -23,7 +23,7 @@ publication_types:
 # summary: Genome-wide identification of Dmrt gene family in the Chinese mitten crab, *Eriocheir sinensis*
 tags:
 - Source Themes
-title: Analyses of the *Dmrt* family in a decapod crab, *Eriocheir sinensis* uncover new facets on the evolution of DM domain genes
+title: Analyses of the Dmrt family in a decapod crab, Eriocheir sinensis uncover new facets on the evolution of DM domain genes
 # url_code: ""
 # url_dataset: ""
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
