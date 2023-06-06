@@ -25,23 +25,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: NBU
+- company: Zhejiang University
+  company_url: ""
+  company_logo: "Zhejiang_University_Logo"
+  date_end: ""
+  date_start: "2023-07-01"
+  description:
+  location: Hangzhou, China
+  title: PhD
+  
+- company: Ningbo University
   company_url: ""
   company_logo: "org-X"
-  date_end: ""
-  date_start: "2020-07-01"
+  date_end: "2023-06-01"
+  date_start: "2020-09-01"
   description: |-
     Responsibilities include:
     * Exploring sex determining mechanism of *E. sinensis*
     * Genome-wide identification of DM domain genes in *E. sinensis*
     * Evolutionary analysis of *Dsx* genes in the arthropods
   location: Ningbo, China
-  title: Postgraduate student
-- company: TJAU
+  title: Master
+- company: Tianjin Agricultural University
   company_url: ""
   date_end: "2020-06-30"
   date_start: "2016-09-01"
   description: Graduating smoothly
   location: Tianjin, China
-  title: Undergraduate student
+  title: Undergraduate
 ---

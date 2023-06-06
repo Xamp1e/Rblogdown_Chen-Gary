@@ -5,6 +5,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
+  - course: Ph.D. (2023-present)
+    institution: Zhejiang University
+    year: 
   - course: M.SC.(Agr.) (2020-2023)
     institution: Ningbo University
     year: 
@@ -13,20 +16,20 @@ education:
     year: 
 email: ""
 interests:
-- Sexual development mechanisms
-- DM domain genes
+- Evo-Devo
+- Genomics
 - Data visualization
 organizations:
-- name: Ningbo University
-  url: "https://www.nbu.edu.cn/en/"
-role: Major in Aquaculture
+- name: Zhejiang University
+  url: "https://www.zju.edu.cn/english/"
+role: Major in Bioinformatics
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/6Qpor9WgBfmDBQ7
+  link: https://twitter.com/ZPeng981024
 - icon: github
   icon_pack: fab
   link: https://github.com/Xamp1e
