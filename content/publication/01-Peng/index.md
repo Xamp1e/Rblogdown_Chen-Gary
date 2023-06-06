@@ -4,7 +4,7 @@ abstract: DM domain genes are a group of transcription factors that are integral
 authors:
 - Peng Zhang
 - Yanan Yang
-- Yuanfeng X
+- Yuanfeng Xu
 - Zhaoxia Cui
 # date: "2021-11-01T00:00:00Z"
 doi: "10.3389/fphys.2023.1201846"
