@@ -27,7 +27,7 @@ date_format: Jan 2006
 experience:
 - company: Zhejiang University
   company_url: ""
-  company_logo: "Zhejiang_University_Logo"
+  company_logo: "zju"
   date_end: ""
   date_start: "2023-07-01"
   description:
