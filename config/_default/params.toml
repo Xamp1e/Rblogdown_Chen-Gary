@@ -113,7 +113,7 @@ email = "pengzhang1998@zju.edu.cn"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Follow me", link = "https://twitter.com/6Qpor9WgBfmDBQ7"},
+  {icon = "twitter", icon_pack = "fab", name = "Follow me", link = "https://twitter.com/ZPeng981024"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
