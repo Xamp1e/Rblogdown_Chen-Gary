@@ -17,7 +17,7 @@ education:
 email: ""
 interests:
 - Evo-Devo
-- Genomics
+- Sex chromosomes
 - Data visualization
 organizations:
 - name: Zhejiang University
